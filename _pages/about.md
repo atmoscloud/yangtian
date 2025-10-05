@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://impacts.ucar.edu/en/persons/yang-tian'>NCAR scientist</a>. 
 
 profile:
   align: right
