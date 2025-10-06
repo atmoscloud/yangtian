@@ -27,6 +27,7 @@ social: true # includes social icons at the bottom of the page
 #  limit: 3 # leave blank to include all the blog posts
 ---
 *Multiscale Climate Dynamics* · *Physics-Informed Machine Learning* · *Climate Sensitivity & Resilience*
+
 I am a climate scientist studying how moist convection and small-scale processes interact with large-scale environment.
 My research integrates theory, observation, high-resolution modeling, climate modeling, field observations, 
 and physics-informed machine learning to improve the fidelity of Earth system models.
