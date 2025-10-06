@@ -6,7 +6,7 @@ subtitle: <a href='https://impacts.ucar.edu/en/persons/yang-tian'>NCAR scientist
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
