@@ -6,7 +6,7 @@ subtitle: <a href='https://impacts.ucar.edu/en/persons/yang-tian'>NCAR scientist
 
 profile:
   align: right
-  image: prof_pic1.JPG
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>1850 Table Mesa Drive</p>
