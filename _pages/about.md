@@ -9,6 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>ytian@ucar.edu</p>
     <p>1850 Table Mesa Drive</p>
     <p>Boulder, CO, 80305</p>
 
