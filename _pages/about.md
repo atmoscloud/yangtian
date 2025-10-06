@@ -26,7 +26,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a climate scientist studying how moist convection and small-scale processes shape climate sensitivity, extremes, and Earth system resilience. My research integrates high-resolution modeling, field observations, and physics-informed machine learning to improve the fidelity of Earth system models.
+I am a climate scientist studying how moist convection and small-scale processes 
+shape climate sensitivity, extremes, and Earth system resilience. My research 
+integrates high-resolution modeling, field observations, and physics-informed
+machine learning to improve the fidelity of Earth system models.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
