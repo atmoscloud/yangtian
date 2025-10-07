@@ -35,11 +35,3 @@ machine learning to improve the fidelity of Earth system models.
 My long-term vision is to lead an interdisciplinary program that connects small-scale
 convective physics to global climate risks and societal resilience.
 
-{% raw %}
-
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/DKRZ.de.jpeg" title="LES simulation" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-{% endraw %}
