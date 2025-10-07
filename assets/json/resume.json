@@ -2,20 +2,17 @@
   "basics": {
     "name": "Yang Tian",
     "label": "Scientist",
-    "image": "",
     "email": "ytian@ucar.edu",
-    "url": "https://alshedivat.github.io/al-folio/",
     "location": {
       "address": "1850 Table Mesa Dr",
       "postalCode": "CO 80305",
       "city": "Boulder",
       "countryCode": "US",
     },
-    "profiles": [
+    "profiles":
       {
         "url": "https://impacts.ucar.edu/en/persons/yang-tian"
       }
-    ]
   },
   "work": [
     {
