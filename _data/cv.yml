@@ -11,8 +11,8 @@
       institution: Harvard University, Cambridge, MA
       year: 2018
       description:
-        - Major: Climate Dynamics
-        - Secondary Field: Computational Science & Engineering
+      - Climate Dynamics
+      - Computational Science & Engineering
 
 - title: Experience
   type: time_table
