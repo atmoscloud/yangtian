@@ -1,0 +1,18 @@
+---
+# Only the triple dashes + comment are needed so Jekyll processes this file
+---
+
+/* Custom styling overrides for my site */
+
+
+/* Increase spacing between sections */
+.section {
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+}
+
+/* Increase spacing between course bullets */
+#teaching-section ul li {
+  margin-bottom: 0.6rem;
+  line-height: 1.7;
+}
