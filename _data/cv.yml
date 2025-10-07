@@ -3,19 +3,16 @@
   contents:
     - name: Full Name
       value: Yang Tian
-
+      
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: Harvard University, Cambridge, USA
+    - title: Ph.D. in Earth and Planetary Sciences
+      institution: Harvard University, Cambridge, MA
       year: 2018
       description:
         - Major: Climate Dynamics
         - Secondary Field: Computational Science & Engineering
-        - Thesis: Understanding Moist Convection from A Lagrangian Perspective
-          contents:
-            - Advisor: Zhiming Kuang
 
 - title: Experience
   type: time_table
