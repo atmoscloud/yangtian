@@ -11,6 +11,7 @@ I view teaching as an essential part of research— training students to think c
 Below is a list of courses that I have taught in the past.
 
 <div id="teaching-section">
+	
 - **University of Colorado Boulder**, Cloud Critique Expert, Boulder, CO
     - Flow Visualization, Department of Electrical Engineering
 
@@ -21,4 +22,5 @@ Below is a list of courses that I have taught in the past.
     - Applied Linear Algebra and Big Data, School of Engineering and Applied Science
     - Advanced Scientific Computing: Numerical Methods, School of Engineering and Applied Science
     - Energy and Climate: Vision for the Future, Harvard College
+    - 
 </div>
