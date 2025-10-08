@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Field observations 
+description: a list of observational instruments for clouds
 img: assets/img/3.jpg
 importance: 2
 category: work
