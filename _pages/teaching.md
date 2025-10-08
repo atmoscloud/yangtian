@@ -13,6 +13,7 @@ Below is a list of courses that I have taught in the past.
 - **University of Colorado Boulder**, Cloud Critique Expert, Boulder, CO
 
   - Flow Visualization, Department of Electrical Engineering <br/>
+  <br/>
 
 - **Harvard University**, Teaching Fellow, Cambridge, MA
   
