@@ -17,7 +17,7 @@ ninja.data = [{
             window.location.href = "/yangtian/projects/";
           },
         },{id: "nav-publications",
-          title: "publications",
+          title: "Publications",
           description: "A selected number of publications",
           section: "Navigation",
           handler: () => {
