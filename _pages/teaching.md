@@ -19,6 +19,8 @@ Below is a list of courses that I have taught in the past.
   - Physics of Climate, Department of Earth & Planetary Science
   
   - Natural Disasters, Harvard College
+    
+  - Energy and Climate: Vision for the Future, Harvard College
   
   - Advanced Machine Learning, School of Engineering and Applied Science
     
@@ -26,5 +28,5 @@ Below is a list of courses that I have taught in the past.
 
   - Advanced Scientific Computing: Numerical Methods, School of Engineering and Applied Science
 
-  - Energy and Climate: Vision for the Future, Harvard College
+  
 
