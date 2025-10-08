@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: A selected number of publications
 nav: true
 nav_order: 3
@@ -19,7 +19,9 @@ nav_order: 3
 
 </div>
 
-## Selected Works in Preparation
+
+
+## Coming soon
 
 <ul class="pub-inprep-list">
   <li>
