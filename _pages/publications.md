@@ -20,7 +20,6 @@ nav_order: 3
 </div>
 
 ## Selected Works in Preparation
-{:.mt-5 .mb-3}
 
 <ul class="pub-inprep-list">
   <li>
