@@ -10,7 +10,7 @@ ninja.data = [{
       window.location.href = "/yangtian/";
     },
   },{id: "nav-research",
-          title: "research",
+          title: "Research",
           description: "A growing collection of your cool projects.",
           section: "Navigation",
           handler: () => {
