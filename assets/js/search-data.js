@@ -421,9 +421,9 @@ ninja.data = [{
           description: "Process-level understanding of cloud-environment interaction",
           section: "Projects",handler: () => {
               window.location.href = "/yangtian/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-field-observations",
+          title: 'Field observations',
+          description: "a list of observational instruments for clouds",
           section: "Projects",handler: () => {
               window.location.href = "/yangtian/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
