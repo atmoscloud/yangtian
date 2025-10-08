@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: High resolution LES/CRM
+description: Process-level understanding of cloud-environment interaction
 img: assets/img/DKRZ.de.jpeg
 importance: 1
 category: work
