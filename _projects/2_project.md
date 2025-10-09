@@ -8,11 +8,14 @@ category: work
 giscus_comments: true
 ---
 
+We use Large Eddy Simulations (LES) CM1 to simulate cloud field, and use this as our "vitual" laboratory to experiment with, aiming at discovering mechanisms behind cloud-aerosol-precipitation coupling.
+
 {% include figure.liquid loading="eager" path="assets/img/publication_preview/LES_congestus.jpg" title="CM1 Congestus Cloud Simulation" class="img-fluid rounded z-depth-1" %}
+
+*CM1 simulation of a cumulus congestus case*
 
 🎥 [CM1 Cloud Simulation](https://visualizations.ucar.edu/visualizations/visualization-of-a-cm1-cloud-simulation/)
 
-We use Large Eddy Simulations (LES) CM1 to simulate cloud field, and use this as our "vitual" laboratory to experiment with, aiming at discovering mechanisms behind cloud-aerosol-precipitation coupling.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
