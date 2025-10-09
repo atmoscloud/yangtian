@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Field observations 
-description: a list of observational instruments for clouds
+title: Cloud-Aerosol-Precipitation Coupling
+description: Quantifying anthropogenic and natural drivers of convective processes
 img: assets/img/3.jpg
 importance: 2
 category: work
