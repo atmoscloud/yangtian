@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: Coupled Earth-System Feedbacks and Resilience
+description: Linking clouds, land, and biosphere processes in Earth’s climate system
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
