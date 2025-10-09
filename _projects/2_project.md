@@ -2,7 +2,7 @@
 layout: page
 title: Cloud-Aerosol-Precipitation Coupling
 description: Quantifying anthropogenic and natural drivers of convective processes
-img: assets/img/ARM_AMF.jpg
+img: assets/img/publication_preview/ARM_AMF.jpg
 importance: 2
 category: work
 giscus_comments: true
