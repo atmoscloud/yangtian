@@ -31,7 +31,7 @@ ninja.data = [{
             window.location.href = "/yangtian/teaching/";
           },
         },{id: "nav-cv",
-          title: "cv",
+          title: "CV",
           description: "",
           section: "Navigation",
           handler: () => {
