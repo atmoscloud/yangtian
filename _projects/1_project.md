@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Multiscale Cloud-Environment Interactions
-description: Process-level understanding of cloud-environment interaction
+description: *From turbulent plumes to organized convection and climate variability*
 img: assets/img/DKRZ.de.jpeg
 importance: 1
 category: work
