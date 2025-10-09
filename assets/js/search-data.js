@@ -436,9 +436,9 @@ ninja.data = [{
           description: "Building interpretable AI-augmented frameworks for next-generation climate prediction",
           section: "Projects",handler: () => {
               window.location.href = "/yangtian/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-observing-and-reconstructing-earth-s-climate-system",
+          title: 'Observing and Reconstructing Earth’s Climate System',
+          description: "From past climates to present observations and emerging data systems",
           section: "Projects",handler: () => {
               window.location.href = "/yangtian/projects/5_project/";
             },},{
