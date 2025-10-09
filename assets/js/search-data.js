@@ -418,7 +418,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-multiscale-cloud-environment-interactions",
           title: 'Multiscale Cloud-Environment Interactions',
-          description: "Process-level understanding of cloud-environment interaction",
+          description: "From turbulent plumes to organized convection and climate variability",
           section: "Projects",handler: () => {
               window.location.href = "/yangtian/projects/1_project/";
             },},{id: "projects-field-observations",
