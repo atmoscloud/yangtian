@@ -2,7 +2,7 @@
 layout: page
 title: Observing and Reconstructing Earth’s Climate System
 description: From past climates to present observations and emerging data systems
-img: assets/img/1.jpg
+img: assets/img/publication_preview/cloud1.jpg
 importance: 5
 category: fun
 hidden: true
