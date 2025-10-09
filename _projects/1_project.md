@@ -1,6 +1,6 @@
 ---
 layout: page
-title: High-resolution LES/CRM
+title: Multiscale Cloud-Environment Interactions
 description: Process-level understanding of cloud-environment interaction
 img: assets/img/DKRZ.de.jpeg
 importance: 1
