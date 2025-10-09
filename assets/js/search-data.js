@@ -426,9 +426,9 @@ ninja.data = [{
           description: "Quantifying anthropogenic and natural drivers of convective processes",
           section: "Projects",handler: () => {
               window.location.href = "/yangtian/projects/2_project/";
-            },},{id: "projects-coupled-earth-system-feedbacks-and-resilience",
-          title: 'Coupled Earth-System Feedbacks and Resilience',
-          description: "Linking clouds, land, and biosphere processes in Earth’s climate system",
+            },},{id: "projects-project-3-with-very-long-name",
+          title: 'project 3 with very long name',
+          description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/yangtian/projects/3_project/";
             },},{id: "projects-project-4",
