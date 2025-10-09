@@ -416,9 +416,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-multiscale-cloud-environment-interactions",
-          title: 'Multiscale Cloud-Environment Interactions',
-          description: "From turbulent plumes to organized convection and climate variability",
+          section: "News",},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/yangtian/projects/1_project/";
             },},{id: "projects-field-observations",
