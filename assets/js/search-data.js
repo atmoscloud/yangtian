@@ -416,8 +416,8 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-high-resolution-les-crm",
-          title: 'High-resolution LES/CRM',
+          section: "News",},{id: "projects-multiscale-cloud-environment-interactions",
+          title: 'Multiscale Cloud-Environment Interactions',
           description: "Process-level understanding of cloud-environment interaction",
           section: "Projects",handler: () => {
               window.location.href = "/yangtian/projects/1_project/";
