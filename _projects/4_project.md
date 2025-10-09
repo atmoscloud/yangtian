@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Toward Predictive Earth-System Intelligence
+description: Building interpretable AI-augmented frameworks for next-generation climate prediction
 img:
 importance: 4
 category: fun
