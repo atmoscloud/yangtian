@@ -8,9 +8,19 @@ category: work
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+<!-- Responsive 16:9 container -->
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;box-shadow:0 3px 10px rgba(0,0,0,.12)">
+  <iframe
+    src="https://visualizations.ucar.edu/visualizations/visualization-of-a-cm1-cloud-simulation/"
+    title="LES Cloud Simulation"
+    loading="lazy"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0">
+  </iframe>
+</div>
+
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
