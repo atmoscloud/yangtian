@@ -417,7 +417,7 @@ ninja.data = [{
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "projects-high-resolution-les-crm",
-          title: 'High resolution LES/CRM',
+          title: 'High-resolution LES/CRM',
           description: "Process-level understanding of cloud-environment interaction",
           section: "Projects",handler: () => {
               window.location.href = "/yangtian/projects/1_project/";
