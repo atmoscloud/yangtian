@@ -9,15 +9,12 @@ category: work
 related_publications: true
 ---
 
-<!-- HERO (optional video or still) -->
-{% if page.hero_video %}
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:12px;box-shadow:0 4px 14px rgba(0,0,0,.12);margin-bottom:1.25rem;">
-  <iframe src="{{ page.hero_video }}" title="LES convection"
-          loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          allowfullscreen
-          style="position:absolute;inset:0;width:100%;height:100%;border:0"></iframe>
+<div style="position:relative;overflow:hidden;border-radius:12px;box-shadow:0 4px 14px rgba(0,0,0,.12);margin-bottom:1.25rem;">
+  <video autoplay loop muted playsinline preload="auto"
+         style="width:100%;height:auto;display:block;border:0;">
+    <source src="/assets/video/grl_2025.mp4" type="video/mp4">
+  </video>
 </div>
-{% endif %}
 
 ## Vision
 We connect **process-level physics** (entrainment, cold pools, updraft momentum, organization) with to explain and improve fundamental understanding of moist convection.
