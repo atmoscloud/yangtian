@@ -3,6 +3,7 @@ layout: page
 title: Multiscale Cloud-Environment Interactions
 description: From turbulent plumes to organized convection and climate variability
 img: assets/img/DKRZ.de.jpeg
+image_width: 1600
 importance: 1
 category: work
 related_publications: true
