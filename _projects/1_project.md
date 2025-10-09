@@ -20,7 +20,7 @@ related_publications: true
 We connect **process-level physics** (entrainment, cold pools, updraft momentum, organization) with to explain and improve fundamental understanding of moist convection.
 
 ## A. Entrainment & Convective Sensitivity
-Short blurb tying your LES + theory to macroscale outcomes. One crisp sentence linking to parameterization implications.{% cite einstein1950meaning %}
+Short blurb tying your LES + theory to macroscale outcomes. One crisp sentence linking to parameterization implications.{% cite tian2016entrainment %}
 
 <div class="row">
     <div class="col-md-7">
