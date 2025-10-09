@@ -2,7 +2,7 @@
 layout: page
 title: Toward Predictive Earth-System Intelligence
 description: Building interpretable AI-augmented frameworks for next-generation climate prediction
-img: assets/img/publication_preview/dyamond2.png
+img: "assets/img/publication_preview/dyamond_high.png"
 importance: 5
 category: fun
 ---
