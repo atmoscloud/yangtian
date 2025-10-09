@@ -8,7 +8,7 @@ category: work
 giscus_comments: true
 ---
 
-🎥 [Watch NCAR CM1 Cloud Simulation](https://visualizations.ucar.edu/visualizations/visualization-of-a-cm1-cloud-simulation/)
+🎥 [CM1 Cloud Simulation](https://visualizations.ucar.edu/visualizations/visualization-of-a-cm1-cloud-simulation/)
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
