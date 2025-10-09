@@ -416,19 +416,19 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-",
-          title: '',
-          description: "",
+          section: "News",},{id: "projects-multiscale-cloud-environment-interactions",
+          title: 'Multiscale Cloud-Environment Interactions',
+          description: "From turbulent plumes to organized convection and climate variability",
           section: "Projects",handler: () => {
               window.location.href = "/yangtian/projects/1_project/";
-            },},{id: "projects-field-observations",
-          title: 'Field observations',
-          description: "a list of observational instruments for clouds",
+            },},{id: "projects-cloud-aerosol-precipitation-coupling",
+          title: 'Cloud-Aerosol-Precipitation Coupling',
+          description: "Quantifying anthropogenic and natural drivers of convective processes",
           section: "Projects",handler: () => {
               window.location.href = "/yangtian/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-coupled-earth-system-feedbacks-and-resilience",
+          title: 'Coupled Earth-System Feedbacks and Resilience',
+          description: "Linking clouds, land, and biosphere processes in Earth’s climate system",
           section: "Projects",handler: () => {
               window.location.href = "/yangtian/projects/3_project/";
             },},{id: "projects-project-4",
