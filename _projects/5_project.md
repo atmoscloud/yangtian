@@ -1,25 +1,14 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: Observing and Reconstructing Earth’s Climate System
+description: From past climates to present observations and emerging data systems
 img: assets/img/1.jpg
 importance: 5
 category: fun
 hidden: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Understanding Earth’s climate requires integrating diverse observational and historical records. Alongside process modeling, I have developed expertise in geospatial analysis, remote sensing, and paleoclimate reconstruction—approaches that provide the empirical foundations for testing and interpreting model hypotheses. These complementary directions connect field observations, reanalysis data, and geological archives to assess how cloud processes and hydrological variability evolve across time and scale.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
