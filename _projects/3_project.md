@@ -2,7 +2,7 @@
 layout: page
 title: Coupled Earth-System Feedbacks and Resilience
 description: Linking clouds, land, and biosphere processes in Earth’s climate system
-img: assets/img/publication_preview/amazon.png
+img: assets/img/publication_preview/amazon_deforestation.gif
 redirect: https://unsplash.com
 importance: 3
 category: work
