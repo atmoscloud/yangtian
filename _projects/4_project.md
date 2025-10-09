@@ -2,7 +2,7 @@
 layout: page
 title: Toward Predictive Earth-System Intelligence
 description: Building interpretable AI-augmented frameworks for next-generation climate prediction
-img:
+img: assets/img/11.jpg
 importance: 4
 category: fun
 ---
@@ -17,7 +17,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: x
     ---
 
 <div class="row">
