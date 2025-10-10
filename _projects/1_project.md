@@ -37,8 +37,7 @@ By releasing Lagrangian particles into the simulated cloud field, we explictly t
 <div class="col-md-4">
     <p class="text-center">
       $$\nabla^{2}P_{M} = -\nabla \cdot (\rho\vec{v} \cdot \nabla\vec{v})$$
-      $$\nabla^{2}P_{B} = \partial_{z}(\rhoB) $$
-      $$\frac{\partial \rho'}{\partial t} + \nabla \cdot (\rho' \mathbf{u}) = Q_c - Q_e$$
+      $$\nabla^{2}P_{B} = \partial_{z}(\rho B) $$
     </p>
     <p class="small text-muted text-center">Pressure gradient force decomposition</p>
   </div>
