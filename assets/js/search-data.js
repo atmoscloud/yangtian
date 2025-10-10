@@ -418,7 +418,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-multiscale-cloud-environment-interactions",
           title: 'Multiscale Cloud-Environment Interactions',
-          description: "From turbulent plumes to organized convection and climate variability",
+          description: "Process-level physics from a Lagrangian perspective",
           section: "Projects",handler: () => {
               window.location.href = "/yangtian/projects/1_project/";
             },},{id: "projects-cloud-aerosol-precipitation-coupling",
