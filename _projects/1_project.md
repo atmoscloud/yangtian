@@ -18,7 +18,7 @@ By releasing Lagrangian particles into the simulated cloud field, we explictly t
   <div class="col-md-8 text-center">
     {% include figure.liquid
        path="assets/img/publication_preview/cold_pool.png"
-       title="LES simulations"
+       caption="LES simulations of cold pool"
        class="img-fluid rounded shadow-sm"
     %}
   </div>
@@ -29,13 +29,14 @@ By releasing Lagrangian particles into the simulated cloud field, we explictly t
 
 Short blurb tying your LES + theory to macroscale outcomes. One crisp sentence linking to parameterization implications.{% cite tian2016entrainment %}
 
-<div class="text-center my-3">
-  {% include figure.liquid
-     path="assets/img/publication_preview/entrainment_schematic.jpg"
-     title="Entrainment mixing schematic"
-     class="img-fluid rounded shadow-sm"
-     style="max-width:30%;height:auto;"
-  %}
+<div class="row justify-content-center my-3">
+  <div class="col-md-8 text-center">
+    {% include figure.liquid
+       path="assets/img/publication_preview/entrainment_schematic.jpg"
+       caption="Entrainment mixing schematic"
+       class="img-fluid rounded shadow-sm"
+    %}
+  </div>
 </div>
 <br><br>
 <div class="caption">
@@ -47,14 +48,14 @@ Short blurb tying your LES + theory to macroscale outcomes. One crisp sentence l
 
 Explain role of density currents, gust fronts, secondary initiation, and timing.
 
-<div class="text-center my-3">
-  {% include figure.liquid
-     path="assets/img/publication_preview/updraft_model1.png"
-     title="Cloudy updraft dynamics simple model"
-     class="img-fluid rounded shadow-sm"
-     style="max-width:30%;height:auto;"
-  %}
-</div>
+<div class="row justify-content-center my-3">
+  <div class="col-md-5 text-center">
+    {% include figure.liquid
+       path="assets/img/publication_preview/updraft_model1.png"
+       caption="Cloudy updraft dynamics simple model"
+       class="img-fluid rounded shadow-sm"
+    %}
+  </div>
 <br><br>
 
 ### Convective sensitivity
