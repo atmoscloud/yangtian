@@ -23,6 +23,26 @@ By releasing Lagrangian particles into the simulated cloud field, we explictly t
     %}
   </div>
 </div>
+
+<div class="row justify-content-center my-3">
+  <div class="col-md-8 text-center">
+    {% include figure.liquid
+       path="assets/img/publication_preview/cold_pool_forcing.png"
+       caption="Buoyancy and mechanical forcing"
+       class="img-fluid rounded shadow-sm"
+    %}
+  </div>
+</div>
+
+<div class="col-md-4">
+    <p class="text-center">
+      $$\nabla^{2}P_{M} = -\nabla \cdot (\rho\vec{v} \cdot \nabla\vec{v})$$
+      $$\nabla^{2}P_{B} = \partial_{z}(\rhoB) $$
+      $$\frac{\partial \rho'}{\partial t} + \nabla \cdot (\rho' \mathbf{u}) = Q_c - Q_e$$
+    </p>
+    <p class="small text-muted text-center">Pressure gradient force decomposition</p>
+  </div>
+</div>
 <br><br>
     
 ### Entrainment mixing
