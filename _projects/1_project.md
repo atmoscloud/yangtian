@@ -18,6 +18,7 @@ By releasing Lagrangian particles into the simulated cloud field, we explictly t
      path="assets/img/publication_preview/cold_pool.png"
      title="LES simulations of cold pool"
      class="img-fluid rounded shadow-sm"
+     style="max-width:50%;"
   %}
 </div>
 <br><br>
@@ -31,6 +32,7 @@ Short blurb tying your LES + theory to macroscale outcomes. One crisp sentence l
      path="assets/img/publication_preview/entrainment_schematic.jpg"
      title="Entrainment mixing schematic"
      class="img-fluid rounded shadow-sm"
+     style="max-width:50%;"
   %}
 </div>
 <br><br>
@@ -48,7 +50,7 @@ Explain role of density currents, gust fronts, secondary initiation, and timing.
      path="assets/img/publication_preview/updraft_model1.png"
      title="Cloudy updraft dynamics simple model"
      class="img-fluid rounded shadow-sm"
-     style="max-width:75%;"
+     style="max-width:30%;"
   %}
 </div>
 <br><br>
