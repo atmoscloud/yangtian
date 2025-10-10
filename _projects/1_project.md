@@ -25,7 +25,7 @@ Short blurb tying your LES + theory to macroscale outcomes. One crisp sentence l
 
 <div class="row">
     <div class="col-md-7">
-        {% include figure.liquid loading="eager" path="assets/img/publication_preview/entrainment_schematic." title="LES simulations" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/publication_preview/entrainment_schematic.jpg" title="LES simulations" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -38,7 +38,7 @@ Explain role of density currents, gust fronts, secondary initiation, and timing.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/publication_preview/updraft_model2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/publication_preview/updraft_model1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
