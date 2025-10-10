@@ -44,16 +44,13 @@ Short blurb tying your LES + theory to macroscale outcomes. One crisp sentence l
 
 Explain role of density currents, gust fronts, secondary initiation, and timing.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <img src="/assets/img/publication_preview/updraft_model1.png"
-             alt="Cold pool map"
-             class="img-fluid rounded shadow-sm"
-             style="max-width:30%;">
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+<div class="row justify-content-center my-3">
+  <div class="col-md-6 text-center">
+    <img src="/assets/img/publication_preview/updraft_model1.png"
+         alt="Updraft model schematic"
+         class="img-fluid rounded shadow-sm">
+    <p class="small text-muted mt-2">LES-based updraft schematic</p>
+  </div>
 </div>
 <\br>
 <\br>
