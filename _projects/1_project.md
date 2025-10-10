@@ -33,7 +33,7 @@ By releasing Lagrangian particles into the simulated cloud field, we explictly t
     %}
   </div>
 
-  <div class="col-md-4">
+  <div class="col-md-4 d-flex align-items-center justify-content-center">
     <p class="text-center">
       $$\nabla^{2}P_{M} = -\nabla \cdot (\rho\vec{v} \cdot \nabla\vec{v})$$
       $$\nabla^{2}P_{B} = \partial_{z}(\rho B) $$
