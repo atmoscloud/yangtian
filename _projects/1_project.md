@@ -13,44 +13,45 @@ related_publications: true
 
 By releasing Lagrangian particles into the simulated cloud field, we explictly track the life cycle of cold pool, and diagnose the relative contribution from dynamic and thermodynamic factors.
 
-<div class="row">
-    <div class="col-md-7">
-        <div align="center">
-        {% include figure.liquid loading="eager" path="assets/img/publication_preview/cold_pool.png" title="LES simulations" class="img-fluid rounded z-depth-1" %}
-        </div>
-    </div>
+<div class="text-center my-3">
+  {% include figure.liquid
+     path="assets/img/publication_preview/cold_pool.png"
+     title="LES simulations of cold pool"
+     class="img-fluid rounded shadow-sm"
+  %}
 </div>
-
+<br><br>
     
 ### Entrainment mixing
 
 Short blurb tying your LES + theory to macroscale outcomes. One crisp sentence linking to parameterization implications.{% cite tian2016entrainment %}
 
-<div class="row">
-    <div class="col-md-7">
-        <div align="center">
-        {% include figure.liquid loading="eager" path="assets/img/publication_preview/entrainment_schematic.jpg" title="LES simulations" class="img-fluid rounded z-depth-1" %}
-        </div>
-    </div>
+<div class="text-center my-3">
+  {% include figure.liquid
+     path="assets/img/publication_preview/entrainment_schematic.jpg"
+     title="Entrainment mixing schematic"
+     class="img-fluid rounded shadow-sm"
+  %}
 </div>
+<br><br>
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
-
+<br><br>
 
 ### Updraft momentum
 
 Explain role of density currents, gust fronts, secondary initiation, and timing.
 
-<div class="row justify-content-center my-3">
-  <div class="col-md-6 text-center">
-    <img src="/assets/img/publication_preview/updraft_model1.png"
-         alt="Updraft model schematic"
-         class="img-fluid rounded shadow-sm">
-    <p class="small text-muted mt-2">LES-based updraft schematic</p>
-  </div>
+<div class="text-center my-3">
+  {% include figure.liquid
+     path="assets/img/publication_preview/updraft_model1.png"
+     title="Cloudy updraft dynamics simple model"
+     class="img-fluid rounded shadow-sm"
+     style="max-width:75%;"
+  %}
 </div>
-
+<br><br>
 
 ### Convective sensitivity
 
