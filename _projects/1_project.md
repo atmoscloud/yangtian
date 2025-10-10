@@ -23,7 +23,6 @@ By releasing Lagrangian particles into the simulated cloud field, we explictly t
     %}
   </div>
 </div>
-
 <div class="row align-items-center my-3">
   <div class="col-md-8 text-center">
     {% include figure.liquid
