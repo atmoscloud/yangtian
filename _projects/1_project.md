@@ -13,13 +13,15 @@ related_publications: true
 
 By releasing Lagrangian particles into the simulated cloud field, we explictly track the life cycle of cold pool, and diagnose the relative contribution from dynamic and thermodynamic factors.
 
-<div class="text-center my-3">
-  {% include figure.liquid
-     path="assets/img/publication_preview/cold_pool.png"
-     title="LES simulations of cold pool"
-     class="img-fluid rounded shadow-sm"
-     style="max-width:30%;height:auto;"
-  %}
+
+<div class="row justify-content-center my-3">
+  <div class="col-md-6 text-center">
+    {% include figure.liquid
+       path="assets/img/publication_preview/cold_pool.png"
+       title="LES simulations"
+       class="img-fluid rounded shadow-sm"
+    %}
+  </div>
 </div>
 <br><br>
     
