@@ -9,7 +9,7 @@ category: work
 related_publications: true
 ---
 
-###Cold pool dynamics
+### Cold pool dynamics
 
 By releasing Lagrangian particles into the simulated cloud field, we explictly track the life cycle of cold pool, and diagnose the relative contribution from dynamic and thermodynamic factors.
 
@@ -19,7 +19,8 @@ By releasing Lagrangian particles into the simulated cloud field, we explictly t
     </div>
 </div>
 
-###Entrainment mixing
+### Entrainment mixing
+
 Short blurb tying your LES + theory to macroscale outcomes. One crisp sentence linking to parameterization implications.{% cite tian2016entrainment %}
 
 <div class="row">
@@ -31,7 +32,8 @@ Short blurb tying your LES + theory to macroscale outcomes. One crisp sentence l
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
 
-###Updraft momentum
+### Updraft momentum
+
 Explain role of density currents, gust fronts, secondary initiation, and timing.
 
 <div class="row">
@@ -44,7 +46,7 @@ Explain role of density currents, gust fronts, secondary initiation, and timing.
 </div>
 
 
-###Convective sensitivity
+### Convective sensitivity
 
 You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
 Say you wanted to write a bit about your project before you posted the rest of the images.
