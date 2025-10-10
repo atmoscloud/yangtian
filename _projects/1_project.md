@@ -11,7 +11,7 @@ related_publications: true
 
 ### Cold pool dynamics
 
-By releasing Lagrangian particles into the simulated cloud field, we explictly track the life cycle of cold pool, and diagnose the relative contribution from dynamic and thermodynamic factors.
+By releasing Lagrangian particles into the simulated cloud field, we explictly track the life cycle of cold pool, and diagnose the relative contribution from dynamic and thermodynamic factor{% cite storri2015coldpools %}.
 
 
 <div class="row justify-content-center my-3">
@@ -27,7 +27,7 @@ By releasing Lagrangian particles into the simulated cloud field, we explictly t
     
 ### Entrainment mixing
 
-Short blurb tying your LES + theory to macroscale outcomes. One crisp sentence linking to parameterization implications.{% cite tian2016entrainment %}
+Short blurb tying your LES + theory to macroscale outcomes. One crisp sentence linking to parameterization implications {% cite tian2016entrainment %}.
 
 <div class="row justify-content-center my-3">
   <div class="col-md-8 text-center">
@@ -56,6 +56,7 @@ Explain role of density currents, gust fronts, secondary initiation, and timing.
        class="img-fluid rounded shadow-sm"
     %}
   </div>
+</div>
 <br><br>
 
 ### Convective sensitivity
