@@ -20,7 +20,9 @@ By releasing Lagrangian particles into the simulated cloud field, we explictly t
         </div>
     </div>
 </div>
-
+<\br>
+<\br>
+    
 ### Entrainment mixing
 
 Short blurb tying your LES + theory to macroscale outcomes. One crisp sentence linking to parameterization implications.{% cite tian2016entrainment %}
@@ -35,7 +37,9 @@ Short blurb tying your LES + theory to macroscale outcomes. One crisp sentence l
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
-
+<\br>
+<\br>
+    
 ### Updraft momentum
 
 Explain role of density currents, gust fronts, secondary initiation, and timing.
@@ -51,7 +55,8 @@ Explain role of density currents, gust fronts, secondary initiation, and timing.
 <div class="caption">
     This image can also have a caption. It's like magic.
 </div>
-
+<\br>
+<\br>
 
 ### Convective sensitivity
 
