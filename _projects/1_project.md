@@ -15,7 +15,9 @@ By releasing Lagrangian particles into the simulated cloud field, we explictly t
 
 <div class="row">
     <div class="col-md-7">
+        <div align="center">
         {% include figure.liquid loading="eager" path="assets/img/publication_preview/cold_pool.png" title="LES simulations" class="img-fluid rounded z-depth-1" %}
+        </div>
     </div>
 </div>
 
@@ -25,7 +27,9 @@ Short blurb tying your LES + theory to macroscale outcomes. One crisp sentence l
 
 <div class="row">
     <div class="col-md-7">
+        <div align="center">
         {% include figure.liquid loading="eager" path="assets/img/publication_preview/entrainment_schematic.jpg" title="LES simulations" class="img-fluid rounded z-depth-1" %}
+        </div>
     </div>
 </div>
 <div class="caption">
