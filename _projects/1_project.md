@@ -15,7 +15,7 @@ By releasing Lagrangian particles into the simulated cloud field, we explictly t
 
 
 <div class="row justify-content-center my-3">
-  <div class="col-md-6 text-center">
+  <div class="col-md-8 text-center">
     {% include figure.liquid
        path="assets/img/publication_preview/cold_pool.png"
        title="LES simulations"
