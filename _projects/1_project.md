@@ -32,7 +32,6 @@ By releasing Lagrangian particles into the simulated cloud field, we explictly t
        class="img-fluid rounded shadow-sm"
     %}
   </div>
-</div>
 
 <div class="col-md-4">
     <p class="text-center">
@@ -40,7 +39,7 @@ By releasing Lagrangian particles into the simulated cloud field, we explictly t
       $$\nabla^{2}P_{B} = \partial_{z}(\rho B) $$
     </p>
     <p class="small text-muted text-center">Pressure gradient force decomposition</p>
-  </div>
+</div>
 </div>
 <br><br>
     
