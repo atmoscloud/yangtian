@@ -11,7 +11,7 @@ related_publications: true
 
 ### Cold pool dynamics
 
-By releasing Lagrangian particles into the simulated cloud field, we explictly track the life cycle of cold pool, and diagnose the relative contribution from dynamic and thermodynamic factor{% cite storri2015coldpools %}.
+By releasing Lagrangian particles into the simulated cloud field, we explictly track the life cycle of cold pool, and diagnose the relative contribution from dynamic and thermodynamic factor{% cite gtorri2015coldpools %}.
 
 
 <div class="row justify-content-center my-3">
