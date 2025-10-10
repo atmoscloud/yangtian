@@ -49,7 +49,7 @@ Short blurb tying your LES + theory to macroscale outcomes. One crisp sentence l
 Explain role of density currents, gust fronts, secondary initiation, and timing.
 
 <div class="row justify-content-center my-3">
-  <div class="col-md-5 text-center">
+  <div class="col-md-8 text-center">
     {% include figure.liquid
        path="assets/img/publication_preview/updraft_model1.png"
        caption="Cloudy updraft dynamics simple model"
