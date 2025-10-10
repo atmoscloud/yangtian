@@ -24,7 +24,7 @@ By releasing Lagrangian particles into the simulated cloud field, we explictly t
   </div>
 </div>
 
-<div class="row justify-content-center my-3">
+<div class="row align-items-center my-3">
   <div class="col-md-8 text-center">
     {% include figure.liquid
        path="assets/img/publication_preview/cold_pool_forcing.png"
@@ -33,13 +33,13 @@ By releasing Lagrangian particles into the simulated cloud field, we explictly t
     %}
   </div>
 
-<div class="col-md-4">
+  <div class="col-md-4">
     <p class="text-center">
       $$\nabla^{2}P_{M} = -\nabla \cdot (\rho\vec{v} \cdot \nabla\vec{v})$$
       $$\nabla^{2}P_{B} = \partial_{z}(\rho B) $$
     </p>
     <p class="small text-muted text-center">Pressure gradient force decomposition</p>
-</div>
+  </div>
 </div>
 <br><br>
     
