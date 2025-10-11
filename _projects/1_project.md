@@ -23,7 +23,7 @@ Cold pools can trigger new convection mechanically, through lifting by the gust 
   </div>
 </div>
 
-By releasing Lagrangian particles into the simulated cloud field, we explictly track the life cycle of cold pool, and diagnose the relative contribution from dynamic and thermodynamic forcing{% cite torri2015coldpools %}.
+By releasing Lagrangian particles into the simulated cloud field, we explictly track the life cycle of cold pool, and diagnose the relative contribution from dynamic and thermodynamic forcing {% cite torri2015coldpools %}.
 
 <div class="row align-items-center my-3">
   <div class="col-md-8 text-center">
@@ -82,7 +82,7 @@ The difference in the figure shows the impacts of temperature perturbation on re
     %}
   </div>
 </div>
-The linear response theory reveals a new entrainment formula as $$ \epsion = \frac{\alpha}{wd}$$
+The linear response theory reveals a new entrainment formula as $$ \epsilon = \frac{\alpha}{wd}$$
 <div class="row justify-content-center my-3">
   <div class="col-md-8 text-center">
     {% include figure.liquid
