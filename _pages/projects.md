@@ -9,9 +9,6 @@ nav_order: 2
 horizontal: true
 ---
 
-<video controls playsinline preload="metadata" width="640" height="360">
-  <source src="/assets/video/KLCH_L3_EET_refl_panel_202206.mp4" type="video/mp4">
-</video>
 
 <!-- pages/projects.md -->
 <div class="projects">
