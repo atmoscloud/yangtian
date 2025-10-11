@@ -66,8 +66,8 @@ To disentangle the controlling factors of entrainmnent mixing, we designed a lin
 <div class="row justify-content-center my-3">
   <div class="col-md-8 text-center">
     {% include figure.liquid
-       path="assets/img/publication_preview/entrain1.jpg"
-       caption="Entrainment mixing schematic"
+       path="assets/img/publication_preview/entrain1.png"
+       caption="Horizontally uniform temperature perturbation"
        class="img-fluid rounded shadow-sm"
     %}
   </div>
@@ -76,8 +76,8 @@ The difference in the figure shows the impacts of temperature perturbation on re
 <div class="row justify-content-center my-3">
   <div class="col-md-8 text-center">
     {% include figure.liquid
-       path="assets/img/publication_preview/entrain2.jpg"
-       caption="Entrainment mixing schematic"
+       path="assets/img/publication_preview/entrain2.png"
+       caption="Cloud properties from a Lagrangian perspective"
        class="img-fluid rounded shadow-sm"
     %}
   </div>
@@ -86,8 +86,8 @@ The linear response theory reveals a new entrainment formula as $$ \epsilon = \f
 <div class="row justify-content-center my-3">
   <div class="col-md-8 text-center">
     {% include figure.liquid
-       path="assets/img/publication_preview/entrain3.jpg"
-       caption="Entrainment mixing schematic"
+       path="assets/img/publication_preview/entrain3.png"
+       caption="Linear responses in entrainment and other factors"
        class="img-fluid rounded shadow-sm"
     %}
   </div>
