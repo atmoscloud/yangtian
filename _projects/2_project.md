@@ -55,11 +55,12 @@ A representative day that features mostly cumulus congestus is selected, and LES
 
 A suite of in-situ and flight measurement are used to identify aerosol number concentration and size distribution, not only on the surface, but also in the vertical. 
 
-<div>
-<video controls playsinline preload="metadata"
-       style="width:100%;border-radius:12px;">
-  <source src="/assets/video/KLCH_L3_EET_refl_panel_202206.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<div class="text-center my-3">
+  <video controls playsinline preload="metadata"
+         style="max-width:80%;border-radius:12px;">
+    <source src="/assets/video/KLCH_L3_EET_refl_panel_202206.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <p class="small text-muted mt-2">KLCH – Reflectivity animation (June 2022)</p>
 </div>
 
