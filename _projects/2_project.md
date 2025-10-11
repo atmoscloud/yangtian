@@ -31,6 +31,18 @@ We use Large Eddy Simulations (LES) CM1 to simulate clouds, compared our simulat
     TRACER field campaign deployment sites and NEXRAD location
 </div>
 
+Houston features a complicated coastal environment where anthropogentic influence of urban and emissions affect storms substantially, we first classify days during TRACER field campaign based on sea breeze strength and aerosol species. 
+<div class="row justify-content-center my-3">
+  <div class="col-md-8 text-center">
+    {% include figure.liquid
+       path="assets/img/publication_preview/Calendar1.jpg"
+       caption="Classification of days based on sea breeze strength and aerosol species"
+       class="img-fluid rounded shadow-sm"
+    %}
+  </div>
+</div>
+
+A representative day that features mostly cumulus congestus is selected, and LES-SDM framework is used to simulate this day with Lagrangian microphysics. 
 <div class="row justify-content-center my-3">
   <div class="col-md-8 text-center">
     {% include figure.liquid
@@ -41,15 +53,7 @@ We use Large Eddy Simulations (LES) CM1 to simulate clouds, compared our simulat
   </div>
 </div>
 
-<div class="row justify-content-center my-3">
-  <div class="col-md-8 text-center">
-    {% include figure.liquid
-       path="assets/img/publication_preview/Calendar1.jpg"
-       caption="LES simulations of cold pool"
-       class="img-fluid rounded shadow-sm"
-    %}
-  </div>
-</div>
+A suite of in-situ and flight measurement are used to identify aerosol number concentration and size distribution, not only on the surface, but also in the vertical. 
 
 <div>
 <video controls playsinline preload="metadata"
