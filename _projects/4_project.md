@@ -20,7 +20,7 @@ A variational autoencoder (VAE) approach is used to correct the precipitation bi
 
 Based on the LES simulations and observation libraries that we built in the past, a new machine learning project is using these as training datasets to learn convective properties such as mass flux and entrainment rate. 
 <div class="row justify-content-center my-3">
-  <div class="col-md-8 text-center">
+  <div class="col-md-6 text-center">
     {% include figure.liquid
        path="assets/img/publication_preview/ent_ML.png"
        caption="A machine learning framework for convective properties"
@@ -28,6 +28,8 @@ Based on the LES simulations and observation libraries that we built in the past
     %}
   </div>
 </div>
+
+My ultimate goal is to build a physics constrained and AI-informed Earth system modeling that has improved extreme and climate projections.
 
 <div class="row justify-content-center my-3">
   <div class="col-md-8 text-center">
