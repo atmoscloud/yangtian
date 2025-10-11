@@ -5,7 +5,6 @@ description: Quantifying anthropogenic and natural drivers of convective process
 img: assets/img/publication_preview/ARM_AMF.jpg
 importance: 2
 category: work
-giscus_comments: true
 ---
 
 We use Large Eddy Simulations (LES) CM1 to simulate clouds, compared our simulated cloud to observations, and use this validated cloud field as our "vitual" laboratory to experiment with, aiming at discovering mechanisms behind cloud-aerosol-precipitation coupling.
@@ -33,7 +32,7 @@ We use Large Eddy Simulations (LES) CM1 to simulate clouds, compared our simulat
 
 Houston features a complicated coastal environment where anthropogentic influence of urban and emissions affect storms substantially, we first classify days during TRACER field campaign based on sea breeze strength and aerosol species. 
 <div class="row justify-content-center my-3">
-  <div class="col-md-8 text-center">
+  <div class="col-md-9 text-center">
     {% include figure.liquid
        path="assets/img/publication_preview/Calendar1.jpg"
        caption="Classification of days based on sea breeze strength and aerosol species"
@@ -44,7 +43,7 @@ Houston features a complicated coastal environment where anthropogentic influenc
 
 A representative day that features mostly cumulus congestus is selected, and LES-SDM framework is used to simulate this day with Lagrangian microphysics. 
 <div class="row justify-content-center my-3">
-  <div class="col-md-8 text-center">
+  <div class="col-md-9 text-center">
     {% include figure.liquid
        path="assets/img/publication_preview/entrainment_SDM.png"
        caption="LES simulations of cold pool"
@@ -55,8 +54,10 @@ A representative day that features mostly cumulus congestus is selected, and LES
 
 A suite of in-situ and flight measurement are used to identify aerosol number concentration and size distribution, not only on the surface, but also in the vertical. 
 
+
 <div class="text-center my-3">
-  <video controls playsinline preload="metadata"
+  <video autoplay loop muted playsinline preload="auto"
+         class="img-fluid rounded shadow-sm"
          style="max-width:80%;border-radius:12px;">
     <source src="/assets/video/KLCH_L3_EET_refl_panel_202206.mp4" type="video/mp4">
     Your browser does not support the video tag.
