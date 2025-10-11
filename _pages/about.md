@@ -34,3 +34,7 @@ I am a climate scientist studying the feedbacks between moist convection and the
 My vision is to lead an interdisciplinary program that connects small-scale
 convective physics to global climate risks and societal resilience.
 
+<video controls playsinline preload="metadata" width="640" height="360">
+  <source src="/assets/video/KLCH_L3_EET_refl_panel_202206.mp4" type="video/mp4">
+</video>
+
