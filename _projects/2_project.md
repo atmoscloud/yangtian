@@ -51,9 +51,11 @@ We use Large Eddy Simulations (LES) CM1 to simulate clouds, compared our simulat
   </div>
 </div>
 
+<div>
 <video controls playsinline preload="metadata"
        style="width:100%;border-radius:12px;">
   <source src="/assets/video/KLCH_L3_EET_refl_panel_202206.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+</div>
 
