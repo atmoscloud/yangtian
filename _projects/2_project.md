@@ -10,7 +10,7 @@ giscus_comments: true
 
 We use Large Eddy Simulations (LES) CM1 to simulate clouds, compared our simulated cloud to observations, and use this validated cloud field as our "vitual" laboratory to experiment with, aiming at discovering mechanisms behind cloud-aerosol-precipitation coupling.
 
-{% include figure.liquid loading="eager" path="assets/img/publication_preview/LES_congestus.jpg" title="CM1 Congestus Cloud Simulation" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/publication_preview/LES_congestus.png" title="CM1 Congestus Cloud Simulation" class="img-fluid rounded z-depth-1" %}
 
 *CM1 simulation of a cumulus congestus case*
 
@@ -21,14 +21,14 @@ We use Large Eddy Simulations (LES) CM1 to simulate clouds, compared our simulat
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/publication_preview/houston_texas.jpeg" title="Houston" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/publication_preview/houston_map.png" title="Site map" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    TRACER field campaign deployment sites and NEXRAD location
 </div>
 
 <div class="row justify-content-center my-3">
@@ -44,7 +44,7 @@ We use Large Eddy Simulations (LES) CM1 to simulate clouds, compared our simulat
 <div class="row justify-content-center my-3">
   <div class="col-md-8 text-center">
     {% include figure.liquid
-       path="assets/img/publication_preview/Calendar1.pdf"
+       path="assets/img/publication_preview/Calendar1.jpg"
        caption="LES simulations of cold pool"
        class="img-fluid rounded shadow-sm"
     %}
