@@ -170,6 +170,9 @@ kramdown:
 
 # Includes & excludes
 include: ["_pages", "_scripts"]
+# Tell Jekyll to include static folders during build
+include:
+  - assets/
 exclude:
   - bin/
   - CONTRIBUTING.md
