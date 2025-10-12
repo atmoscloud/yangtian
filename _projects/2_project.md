@@ -2,14 +2,12 @@
 layout: page
 title: Cloud-Aerosol-Precipitation Coupling
 description: Quantifying anthropogenic and natural drivers of convective processes
-img: assets/img/publication_preview/ARM_AMF.jpg
+img: assets/img/publication_preview/LES_congestus.png
 importance: 2
 category: work
 ---
 
 We use Large Eddy Simulations (LES) CM1 to simulate clouds, compared our simulated cloud to observations, and use this validated cloud field as our "vitual" laboratory to experiment with, aiming at discovering mechanisms behind cloud-aerosol-precipitation coupling.
-
-{% include figure.liquid loading="eager" path="assets/img/publication_preview/LES_congestus.png" title="CM1 Congestus Cloud Simulation" class="img-fluid rounded z-depth-1" %}
 
 *CM1 simulation of a cumulus congestus case*
 
