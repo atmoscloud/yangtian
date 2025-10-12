@@ -55,7 +55,7 @@ By releasing Lagrangian particles into the simulated cloud field, we explictly t
 Both mechanical forcing due to gust front lifting and thermodynamic forcing due to MSE anomaly play roles in triggering convection, but they are important at different stages of convective development, with mechanical forcing more important close to the surface. 
 
 Cold pools tend to be relatively young when they lift triggered particles and that a large number of triggered particles reach their LFC without residing in a cold pool.
-<br>
+<br><br>
 
 
 ### Entrainment mixing
