@@ -24,11 +24,10 @@ Cold pools can trigger new convection mechanically, through lifting by the gust 
 
   <div class="col-md-4 d-flex align-items-center justify-content-center">
     {% include figure.liquid
-       path="assets/img/publication_preview/lagrangian.fig"
+       path="assets/img/publication_preview/lagrangian.gif"
        caption="Lagrangian particle scheme"
        class="img-fluid rounded shadow-sm"
     %}
-    <p class="small text-muted text-center">Langhans et al. 2015 </p>
   </div>
 </div>
 
