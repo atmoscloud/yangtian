@@ -20,13 +20,13 @@ Amazon plays a key role in regulating the global hydrological cycle, but the fee
   </div>
   <div class="col-md-4 d-flex align-items-center justify-content-center">
     {% include video.liquid
-     path="assets/video/grl_2025.mp4"
+     path="assets/video/deep_ani.mov"
      autoplay=true
      loop=true
      muted=true
      playsinline=true
      max-width="75%"
-     caption="LES simulation of diurnal cycles"
+     caption="A suite of instruments to identify various convective regimes"
     %}
   </div>
 </div>
