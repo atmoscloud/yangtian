@@ -70,6 +70,7 @@ The mechanism behind double-pulse of precipitation is closely related to cumulus
   </div>
 </div>
 
+The schematic demonstrates the mechanism behind second pulse of precipitation related to cumulus congestus.
 <div class="row justify-content-center my-3">
   <div class="col-md-9 text-center">
     {% include figure.liquid
