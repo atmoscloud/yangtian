@@ -21,9 +21,19 @@ Cold pools can trigger new convection mechanically, through lifting by the gust 
        class="img-fluid rounded shadow-sm"
     %}
   </div>
+
+  <div class="col-md-4 d-flex align-items-center justify-content-center">
+    {% include figure.liquid
+       path="assets/img/publication_preview/lagrangian.fig"
+       caption="Lagrangian particle scheme"
+       class="img-fluid rounded shadow-sm"
+    %}
+    <p class="small text-muted text-center">Langhans et al. 2015 </p>
+  </div>
 </div>
 
 By releasing Lagrangian particles into the simulated cloud field, we explictly track the life cycle of cold pool, and diagnose the relative contribution from dynamic and thermodynamic forcing {% cite torri2015coldpools %}.
+
 
 <div class="row align-items-center my-3">
   <div class="col-md-8 text-center">
@@ -110,7 +120,7 @@ The abovementioned pressure gradient forces do not only play important roles in 
   </div>
 </div>
 
-With the simple cartoon model, we have explicitly calculated the virtual mass coefficient and dynamical pertur- bation pressure, which could be useful in parameterizing vertical velocity in convective schemes
+With the simple cartoon model, we have explicitly calculated the virtual mass coefficient and dynamical pertur- bation pressure, which could be useful in parameterizing vertical velocity in convective schemes. 
 
 <div class="row justify-content-center my-3">
   <div class="col-md-8 text-center">
