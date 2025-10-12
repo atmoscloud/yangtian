@@ -31,12 +31,38 @@ Amazon plays a key role in regulating the global hydrological cycle, but the fee
   </div>
 </div>
 
-Based on GoAmazon observations, we identified a "double-pulse" phenomenon of afternoon precipitation, and investigated the underlying mechanism. 
+Based on GoAmazon observations, we identified a "double-pulse" phenomenon of afternoon precipitation, and investigated the underlying mechanism. The first round of precipitation occurs around 1300 LST and the second one occurs two hours later.
 
 <div class="row justify-content-center my-3">
   <div class="col-md-9 text-center">
     {% include figure.liquid
-       path="assets/img/publication_preview/Amazon_JGR.png"
+       path="assets/img/publication_preview/double_pulse1.png"
+       caption="Single and double pulse of afternoon precipitation"
+       class="img-fluid rounded shadow-sm"
+    %}
+  </div>
+</div>
+
+The first round of convection features mostly randomly scattered deep convection, whereas the second round is more organized. 
+
+<div class="text-center my-3">
+  {% include video.liquid
+     path="assets/video/grl_2025.mp4"
+     autoplay=true
+     loop=true
+     muted=true
+     playsinline=true
+     max-width="75%"
+     caption="LES simulation of diurnal cycles"
+  %}
+</div>
+
+The mechanism behind double-pulse of precipitation is closely related to cumulus congestus clouds.
+
+<div class="row justify-content-center my-3">
+  <div class="col-md-9 text-center">
+    {% include figure.liquid
+       path="assets/img/publication_preview/double_congestus.png"
        caption="LES simulations of cold pool"
        class="img-fluid rounded shadow-sm"
     %}
@@ -53,17 +79,7 @@ Based on GoAmazon observations, we identified a "double-pulse" phenomenon of aft
   </div>
 </div>
 
-<div class="text-center my-3">
-  {% include video.liquid
-     path="assets/video/grl_2025.mp4"
-     autoplay=true
-     loop=true
-     muted=true
-     playsinline=true
-     max-width="75%"
-     caption="LES simulation of diurnal cycles"
-  %}
-</div>
+We use the same initial and boundary conditions to force high resolution E3SM simulations
 
 <div class="row justify-content-center my-3">
   <div class="col-md-9 text-center">
@@ -74,6 +90,8 @@ Based on GoAmazon observations, we identified a "double-pulse" phenomenon of aft
     %}
   </div>
 </div>
+
+Even at 250m, the E3SM-SCREAM cannot reproduce the second pulse of precipitation, and denoted by a lacking of congestus clouds. 
 
 <div class="row justify-content-center my-3">
   <div class="col-md-9 text-center">
