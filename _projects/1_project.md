@@ -81,8 +81,15 @@ To disentangle the controlling factors of entrainmnent mixing, we designed a lin
     %}
   </div>
 </div>
+
 The difference in the figure shows the impacts of temperature perturbation on relevant variables, grouped by detrainment heights of Lagrangian particles. 
 <div class="row justify-content-center my-3">
+  <div class="col-md-4 d-flex align-items-center justify-content-center">
+    {% include figure.liquid
+       path="assets/img/publication_preview/entrainment_schematic.jpg"
+       caption="A spectral plume representation for Lagrangian particles"
+       class="img-fluid rounded shadow-sm"
+    %}      
   <div class="col-md-8 text-center">
     {% include figure.liquid
        path="assets/img/publication_preview/entrain2.png"
@@ -91,6 +98,7 @@ The difference in the figure shows the impacts of temperature perturbation on re
     %}
   </div>
 </div>
+
 The linear response theory reveals a new entrainment formula as $$ \epsilon = \frac{\alpha}{wd}$$
 <div class="row justify-content-center my-3">
   <div class="col-md-8 text-center">
