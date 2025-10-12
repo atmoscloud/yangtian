@@ -122,7 +122,7 @@ The linear response theory reveals a new entrainment formula as $$ \epsilon = \f
 
 ### Updraft momentum
 
-The abovementioned pressure gradient forces do not only play important roles in triggering convection due to cold pool, but also affect the updraft momentum evolution significantly. However, they are poorly represented in current convection parameterization. We designed a deterministic cartoon model to include these important terms. 
+The abovementioned pressure gradient forces do not only play important roles in triggering convection due to cold pool, but also affect the updraft momentum evolution significantly. However, they are poorly represented in current convection parameterization. We designed a deterministic cartoon model to include these important terms {% cite tian2019momentum %}. 
 
 <div class="row justify-content-center my-3">
   <div class="col-md-8 text-center">
