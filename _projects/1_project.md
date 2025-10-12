@@ -82,6 +82,18 @@ To disentangle the controlling factors of entrainmnent mixing, we designed a lin
   </div>
 </div>
 
+According to the spectral plume concept of Arakawa and Schubert 1974, we also designed our spectral plume model for Lagrangian particles, each parcel group is binned by their detrainment heights. 
+
+<div class="row justify-content-center my-3">
+  <div class="col-md-8 text-center">
+    {% include figure.liquid
+       path="assets/img/publication_preview/entrainment.png"
+       caption="A spectral plume representation for Lagrangian particles"
+       class="img-fluid rounded shadow-sm"
+    %}
+  </div>
+</div>
+
 The difference in the figure shows the impacts of temperature perturbation on relevant variables, grouped by detrainment heights of Lagrangian particles. 
 
 <div class="row justify-content-center my-3">
