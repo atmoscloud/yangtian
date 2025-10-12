@@ -134,7 +134,7 @@ The abovementioned pressure gradient forces do not only play important roles in 
   </div>
 </div>
 
-With the simple cartoon model, we have explicitly calculated the virtual mass coefficient and dynamical pertur- bation pressure, which could be useful in parameterizing vertical velocity in convective schemes. 
+With the simple cartoon model, we have explicitly calculated the virtual mass coefficient and dynamical perturbation pressure, which could be useful in parameterizing vertical velocity in convective schemes. 
 
 <div class="row justify-content-center my-3">
   <div class="col-md-8 text-center">
@@ -145,4 +145,6 @@ With the simple cartoon model, we have explicitly calculated the virtual mass co
     %}
   </div>
 </div>
+
+With the new entrainment formula and our simple model of updraft momentum, a unified convection scheme is promising. 
 <br><br>
