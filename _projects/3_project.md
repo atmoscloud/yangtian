@@ -7,10 +7,19 @@ importance: 3
 category: work
 ---
 
-Amazon plays a key role in regulating the global hydrological cycle, but the feedback between clouds, land and biosphere over this region is poorly constrained, we used observation, LES, and climate models to investigate this complicated feedback mechanisms. Based on GoAmazon observations, we identified a "double-pulse" phenomenon of afternoon precipitation, and investigated the underlying mechanism. 
+Amazon plays a key role in regulating the global hydrological cycle, but the feedback between clouds, land and biosphere over this region is poorly constrained, we used observation, LES, and climate models to investigate this complicated feedback mechanisms. 
 
+<div class="row justify-content-center my-3">
+  <div class="col-md-9 text-center">
+    {% include figure.liquid
+       path="assets/img/publication_preview/ARM_AMF.jpg"
+       caption="DOE ARM GoAmazon deployment"
+       class="img-fluid rounded shadow-sm"
+    %}
+  </div>
+</div>
 
-
+Based on GoAmazon observations, we identified a "double-pulse" phenomenon of afternoon precipitation, and investigated the underlying mechanism. 
 
 <div class="row justify-content-center my-3">
   <div class="col-md-9 text-center">
