@@ -13,7 +13,19 @@ We use Large Eddy Simulations (LES) CM1 to simulate clouds, compared our simulat
 
 *CM1 simulation of a cumulus congestus case*
 
-🎥 [CM1 Cloud Simulation](https://visualizations.ucar.edu/visualizations/visualization-of-a-cm1-cloud-simulation/)
+<div class="text-center my-3">
+  {% include video.liquid
+     path="assets/video/congestus_cut.mp4"
+     autoplay=true
+     loop=true
+     muted=true
+     playsinline=true
+     max-width="75%"
+     caption="Cumulus congestus simulation"
+  %}
+</div>
+
+🎥 [Full CM1 Cloud Simulation](https://visualizations.ucar.edu/visualizations/visualization-of-a-cm1-cloud-simulation/)
 
 
 ## A case study over Houston, Texas 
