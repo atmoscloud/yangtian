@@ -19,7 +19,6 @@ We use Large Eddy Simulations (LES) CM1 to simulate clouds, compared our simulat
      muted=true
      playsinline=true
      max-width="75%"
-     caption="Cumulus congestus simulation"
   %}
 </div>
 
