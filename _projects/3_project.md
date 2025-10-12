@@ -25,7 +25,6 @@ Amazon plays a key role in regulating the global hydrological cycle, but the fee
      loop=true
      muted=true
      playsinline=true
-     max-width="75%"
      caption="A suite of instruments to identify various convective regimes"
     %}
   </div>
