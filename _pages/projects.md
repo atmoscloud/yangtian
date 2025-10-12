@@ -22,7 +22,7 @@ horizontal: true
     <!-- Generate cards for each project -->
     {% if page.horizontal %}
       <div class="container">
-        <div class="row row-cols-1 row-cols-md-2">
+        <div class="row row-cols-1 row-cols-md-4">
           {% for project in categorized_projects %}
             {% include projects_horizontal.liquid %}
           {% endfor %}
@@ -45,7 +45,7 @@ horizontal: true
   <!-- Generate cards for each project -->
   {% if page.horizontal %}
     <div class="container">
-      <div class="row row-cols-1 row-cols-md-2">
+      <div class="row row-cols-1 row-cols-md-4">
         {% for project in sorted_projects %}
           {% include projects_horizontal.liquid %}
         {% endfor %}
