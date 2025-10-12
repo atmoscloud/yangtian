@@ -11,7 +11,7 @@ Amazon plays a key role in regulating the global hydrological cycle, but the fee
 
 
 <div class="row justify-content-center my-3">
-  <div class="col-md-8 text-center">
+  <div class="col-md-9 text-center">
     {% include figure.liquid
        path="assets/img/publication_preview/Amazon_JGR.png"
        caption="LES simulations of cold pool"
@@ -21,7 +21,7 @@ Amazon plays a key role in regulating the global hydrological cycle, but the fee
 </div>
 
 <div class="row justify-content-center my-3">
-  <div class="col-md-8 text-center">
+  <div class="col-md-9 text-center">
     {% include figure.liquid
        path="assets/img/publication_preview/GRL_2022.png"
        caption="LES simulations of cold pool"
@@ -31,7 +31,7 @@ Amazon plays a key role in regulating the global hydrological cycle, but the fee
 </div>
 
 <div class="row justify-content-center my-3">
-  <div class="col-md-8 text-center">
+  <div class="col-md-9 text-center">
     {% include figure.liquid
        path="assets/img/publication_preview/e3sm_bias.png"
        caption="LES simulations of cold pool"
@@ -41,7 +41,7 @@ Amazon plays a key role in regulating the global hydrological cycle, but the fee
 </div>
 
 <div class="row justify-content-center my-3">
-  <div class="col-md-8 text-center">
+  <div class="col-md-9 text-center">
     {% include figure.liquid
        path="assets/img/publication_preview/BAMS.png"
        caption="LES simulations of cold pool"
