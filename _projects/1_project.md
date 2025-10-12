@@ -55,8 +55,7 @@ By releasing Lagrangian particles into the simulated cloud field, we explictly t
 Both mechanical forcing due to gust front lifting and thermodynamic forcing due to MSE anomaly play roles in triggering convection, but they are important at different stages of convective development, with mechanical forcing more important close to the surface. 
 
 Cold pools tend to be relatively young when they lift triggered particles and that a large number of triggered particles reach their LFC without residing in a cold pool.
-
-<br><br>
+<br>
 
 ### Entrainment mixing
 
@@ -116,9 +115,7 @@ The linear response theory reveals a new entrainment formula as $$ \epsilon = \f
     %}
   </div>
 </div>
-
-<br><br>
-
+<br>
 
 ### Updraft momentum
 
@@ -147,4 +144,4 @@ With the simple cartoon model, we have explicitly calculated the virtual mass co
 </div>
 
 With the new entrainment formula and our simple model of updraft momentum, a unified convection scheme is promising. 
-<br><br>
+<br>
