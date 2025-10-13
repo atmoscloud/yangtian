@@ -40,7 +40,7 @@ convective physics to global climate risks and societal resilience.
 
 <section class="research-themes py-5">
   <div class="container">
-    <h2 class="text-center mb-5">Research Themes</h2>
+    <h2 class="text-start mb-5">Research Themes</h2>
 
     <!-- Theme 1 -->
     <div class="row align-items-center mb-5">
