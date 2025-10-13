@@ -32,7 +32,7 @@ Amazon plays a key role in regulating the global hydrological cycle, but the fee
   </div>
 </div>
 
-Based on GoAmazon observations, we identified a "double-pulse" phenomenon of afternoon precipitation, and investigated the underlying mechanism. The first round of precipitation occurs around 1300 LST and the second one occurs two hours later.
+Based on GoAmazon observations, we identified a "double-pulse" phenomenon of afternoon precipitation, and investigated the underlying mechanism. The first round of precipitation occurs around 1300 LST and the second one occurs two hours later. {% cite tian2022doublepulse %}
 
 <div class="row justify-content-center my-3">
   <div class="col-md-9 text-center">
@@ -58,7 +58,7 @@ The first round of convection features mostly randomly scattered deep convection
   %}
 </div>
 
-The mechanism behind double-pulse of precipitation is closely related to cumulus congestus clouds.
+The mechanism behind double-pulse of precipitation is closely related to cumulus congestus clouds. {% cite tian2025amazon %}
 
 <div class="row justify-content-center my-3">
   <div class="col-md-9 text-center">
@@ -93,7 +93,7 @@ We use the same initial and boundary conditions to force high resolution E3SM si
   </div>
 </div>
 
-Even at 250m, the E3SM-SCREAM cannot reproduce the second pulse of precipitation, and denoted by a lacking of congestus clouds. 
+Even at 250m, the E3SM-SCREAM cannot reproduce the second pulse of precipitation, and denoted by a lacking of congestus clouds. Similar issues are also observed in other high resolution regional climate models. {% cite dominguez2023hydroclimate %}
 
 <div class="row justify-content-center my-3">
   <div class="col-md-9 text-center">
