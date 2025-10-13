@@ -6,7 +6,7 @@ img: "assets/img/publication_preview/dyamond_banner.jpg"
 importance: 5
 category: fun
 ---
-A variational autoencoder (VAE) approach is used to correct the precipitation bias in climate models, providing a post-processing tool for better precipitation predcition.
+A variational autoencoder (VAE) approach is used to correct the precipitation bias in climate models, providing a post-processing tool for better precipitation predcition. {% cite pan2021bias %}
 
 <div class="row justify-content-center my-3">
   <div class="col-md-8 text-center">
