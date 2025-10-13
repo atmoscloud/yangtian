@@ -81,7 +81,7 @@ The schematic demonstrates the mechanism behind second pulse of precipitation re
   </div>
 </div>
 
-We use the same initial and boundary conditions to force high resolution E3SM simulations
+We use the same initial and boundary conditions to force high resolution E3SM simulations {% cite bogenschutz2024cloudperm %}
 
 <div class="row justify-content-center my-3">
   <div class="col-md-9 text-center">
