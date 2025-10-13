@@ -22,7 +22,7 @@ Amazon plays a key role in regulating the global hydrological cycle, but the fee
   <!-- Right: Video -->
   <div class="col-md-4 d-flex align-items-center justify-content-center">
     {% include video.liquid
-       path="/assets/video/deep_ani.mp4"
+       path="assets/video/deep_ani.mp4"
        autoplay=true
        loop=true
        muted=true
