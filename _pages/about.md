@@ -46,9 +46,11 @@ convective physics to global climate risks and societal resilience.
     <!-- Theme 1 -->
     <div class="row align-items-center mb-5">
       <div class="col-md-5 text-center">
-        <img src="/assets/img/publication_preview/cloud1.jpg"
-             class="img-fluid rounded shadow-sm"
-             alt="LES + Lagrangian particle tracking + Linear response functions">
+        {% include figure.liquid
+           path="assets/img/publication_preview/cloud1.jpg"
+           class="img-fluid rounded shadow-sm"
+           alt="LES + Lagrangian particle tracking + Linear response functions"
+        %}
       </div>
       <div class="col-md-7">
         <h4 class="fw-semibold text-accent mb-2">Multiscale Cloud–Environment Interactions</h4>
@@ -59,9 +61,11 @@ convective physics to global climate risks and societal resilience.
     <!-- Theme 2 -->
     <div class="row align-items-center flex-md-row-reverse mb-5">
       <div class="col-md-5 text-center">
-        <img src="/assets/img/publication_preview/LES_congestus.png"
-             class="img-fluid rounded shadow-sm"
-             alt="LES + Lagrangian particle tracking + Piggybacking">
+        {% include figure.liquid
+           path="assets/img/publication_preview/LES_congestus.png"
+           class="img-fluid rounded shadow-sm"
+           alt="LES + Lagrangian particle tracking + Piggybacking"
+        %}
       </div>
       <div class="col-md-7">
         <h4 class="fw-semibold text-accent mb-2">Cloud–Aerosol Interactions and Microphysics</h4>
@@ -72,9 +76,11 @@ convective physics to global climate risks and societal resilience.
     <!-- Theme 3 -->
     <div class="row align-items-center mb-5">
       <div class="col-md-5 text-center">
-        <img src="/assets/img/publication_preview/amazon_deforestation.gif"
-             class="img-fluid rounded shadow-sm"
-             alt="LES + Observation + Km-scale modeling">
+          {% include figure.liquid
+           path="assets/img/publication_preview/amazon_deforestation.gif"
+           class="img-fluid rounded shadow-sm"
+           alt="LES + Observation + Km-scale modeling"
+        %}
       </div>
       <div class="col-md-7">
         <h4 class="fw-semibold text-accent mb-2">Coupled Earth-System Feedbacks and Resilience</h4>
@@ -85,9 +91,11 @@ convective physics to global climate risks and societal resilience.
     <!-- Theme 4 -->
     <div class="row align-items-center flex-md-row-reverse mb-5">
       <div class="col-md-5 text-center">
-        <img src="/assets/img/publication_preview/dyamond_banner.jpg"
-             class="img-fluid rounded shadow-sm"
-             alt="LES + Observation + AI + Km-scale modeling + Climate modeling">
+       {% include figure.liquid
+           path="assets/img/publication_preview/dyamond_banner.jpg"
+           class="img-fluid rounded shadow-sm"
+           alt="LES + Observation + AI + Km-scale modeling + Climate modeling"
+        %}
       </div>
       <div class="col-md-7">
         <h4 class="fw-semibold text-accent mb-2">Toward Predictive Earth-System Intelligence</h4>
@@ -97,5 +105,7 @@ convective physics to global climate risks and societal resilience.
 
   </div>
 </section>
+
+
 
 
