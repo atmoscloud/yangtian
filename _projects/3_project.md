@@ -32,7 +32,7 @@ Amazon plays a key role in regulating the global hydrological cycle, but the fee
   </div>
 </div>
 
-Based on GoAmazon observations, we identified a "double-pulse" phenomenon of afternoon precipitation, and investigated the underlying mechanism. The first round of precipitation occurs around 1300 LST and the second one occurs two hours later. {% cite tian2022doublepulse %}
+Based on GoAmazon observations, we identified a "double-pulse" phenomenon of afternoon precipitation, and investigated the underlying mechanism. The first round of precipitation occurs around 1300 LST and the second one occurs two hours later. {% cite tian2020diurnal %},{% cite tian2022doublepulse %}
 
 <div class="row justify-content-center my-3">
   <div class="col-md-9 text-center">
