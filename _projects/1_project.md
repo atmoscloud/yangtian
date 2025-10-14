@@ -2,7 +2,7 @@
 layout: page
 title: Multiscale Cloud-Environment Interactions
 description: Process-level physics from a Lagrangian perspective
-img: assets/img/DKRZ.de.jpeg
+img: assets/img/publication_preview/linear_response2.gif
 image_width: 1600
 importance: 1
 category: work
