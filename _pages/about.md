@@ -47,9 +47,10 @@ convective physics to global climate risks and societal resilience.
     <div class="row align-items-center mb-5">
       <div class="col-md-5 text-center">
         {% include figure.liquid
-           path="assets/img/publication_preview/cloud1.jpg"
+           path="assets/img/publication_preview/linear_response2.gif"
            class="img-fluid rounded shadow-sm"
            alt="LES + Lagrangian particle tracking + Linear response functions"
+           caption="LES + Lagrangian particle tracking + Linear response functions"
         %}
       </div>
       <div class="col-md-7">
@@ -65,6 +66,7 @@ convective physics to global climate risks and societal resilience.
            path="assets/img/publication_preview/LES_congestus.png"
            class="img-fluid rounded shadow-sm"
            alt="LES + Lagrangian particle tracking + Piggybacking"
+           caption="LES + Lagrangian particle tracking + Piggybacking"
         %}
       </div>
       <div class="col-md-7">
@@ -80,6 +82,7 @@ convective physics to global climate risks and societal resilience.
            path="assets/img/publication_preview/amazon_deforestation.gif"
            class="img-fluid rounded shadow-sm"
            alt="LES + Observation + Km-scale modeling"
+           caption="LES + Observation + Km-scale modeling"
         %}
       </div>
       <div class="col-md-7">
@@ -95,6 +98,7 @@ convective physics to global climate risks and societal resilience.
            path="assets/img/publication_preview/dyamond_banner.jpg"
            class="img-fluid rounded shadow-sm"
            alt="LES + Observation + AI + Km-scale modeling + Climate modeling"
+           caption="LES + Observation + AI + Km-scale modeling + Climate modeling"
         %}
       </div>
       <div class="col-md-7">
