@@ -45,7 +45,7 @@ convective physics to global climate risks and societal resilience.
 
     <!-- Theme 1 -->
     <div class="row align-items-center mb-5">
-      <div class="col-md-5 text-center">
+      <div class="col-md-7 text-center">
         {% include figure.liquid
            path="assets/img/publication_preview/linear_response2.gif"
            class="img-fluid rounded shadow-sm"
@@ -53,9 +53,9 @@ convective physics to global climate risks and societal resilience.
            caption="LES + Lagrangian particle tracking + Linear response functions"
         %}
       </div>
-      <div class="col-md-7">
+      <div class="col-md-5">
         <h4 class="fw-semibold text-accent mb-2">Multiscale Cloud–Environment Interactions</h4>
-        <p>Exploring cold-pool dynamics, entrainment, and the diurnal cycle through LES and Lagrangian analyses to connect convective physics with large-scale organization.</p>
+        <p>Exploring cold-pool dynamics, entrainment, and updraft dynamics through LES, Lagrangian analyses and linear response function to connect convective physics with large-scale environment.</p>
       </div>
     </div>
 
