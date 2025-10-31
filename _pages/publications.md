@@ -42,4 +42,10 @@ nav_order: 3
     Examines aerosol–convection interactions using high-resolution simulations.<br/>
     <br/>
   </li>
+  <li>
+    Takeishi, A., <b>Tian, Y.</b>, et al.   
+    <em>A Lagrangian perspective on secondary droplet activation in cumulus congestus.</em><br>
+    Examines secondary cloud droplet activation above cloud base using high-resolution Superdroplet simulations.<br/>
+    <br/>
+  </li>
 </ul>
