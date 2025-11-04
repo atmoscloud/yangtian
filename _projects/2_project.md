@@ -9,7 +9,7 @@ category: work
 
 We use Large Eddy Simulations (LES) CM1 to simulate clouds, compared our simulated cloud to observations, and use this validated cloud field as our "vitual" laboratory to experiment with, aiming at discovering mechanisms behind cloud-aerosol-precipitation coupling.
 
-*CM1 simulation of a cumulus congestus case*
+*CM1 simulation of a cumulus congestus case (credit NCAR CISIL and MMM)*
 
 <div class="text-center my-3">
   {% include video.liquid
